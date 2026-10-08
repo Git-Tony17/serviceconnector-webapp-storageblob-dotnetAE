@@ -10,7 +10,7 @@ variables:
 
   # Completar posteriormente
   azureSubscription: 'MIA_Connection'
-  appName: 'storage-container-connectorAE'
+  appName: 'miaazurestorage_group'
 
 steps:
 
